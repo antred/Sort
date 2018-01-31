@@ -18,12 +18,6 @@ public class QuickSort {
 	 */
 	public void sort(Integer []array, int start, int end) {
 		
-		int key = array[start];
-		
-		while(start < end) {
-			
-		}
-		
 	}
 
 }
