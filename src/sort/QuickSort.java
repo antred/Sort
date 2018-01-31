@@ -23,6 +23,10 @@ public class QuickSort {
 		
 		while(start < end) {
 			
+			while(array[end] >= key && end > start) {
+				end --;
+			}
+			
 		}
 		
 	}
